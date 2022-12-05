@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebe0b9d-735c-449d-b98b-853036fdec05" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/LoopInJava/ShowPrime2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopInJava/DisplayGeometry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShowPrime2">
+  <component name="RunManager" selected="Application.DisplayGeometry">
     <configuration name="CurrencyConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IntroductionToJava.CurrencyConversion" />
       <module name="Module2" />
@@ -54,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopInJava.InterestCalculator" />
+    <configuration name="DisplayGeometry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInJava.DisplayGeometry" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopInJava.IsPrime" />
+    <configuration name="InterestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInJava.InterestCalculator" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DisplayGeometry" />
         <item itemvalue="Application.ShowPrime2" />
         <item itemvalue="Application.ShowPrime" />
         <item itemvalue="Application.CurrencyConversion" />
         <item itemvalue="Application.InterestCalculator" />
-        <item itemvalue="Application.IsPrime" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,8 @@
       <workItem from="1669971771903" duration="4701000" />
       <workItem from="1670073593641" duration="5569000" />
       <workItem from="1670162258626" duration="3179000" />
-      <workItem from="1670201770569" duration="4261000" />
+      <workItem from="1670201770569" duration="5491000" />
+      <workItem from="1670231676639" duration="2500000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1670203737578</created>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670205787827</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1670206598493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670206598493</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
