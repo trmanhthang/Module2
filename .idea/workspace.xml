@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebe0b9d-735c-449d-b98b-853036fdec05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntroductionToJava/SystemDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntroductionToJava/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntroductionToJava/BMICalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntroductionToJava/CurrencyConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntroductionToJava/CurrencyConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntroductionToJava/DayOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntroductionToJava/DayOfMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntroductionToJava/LeapYearCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntroductionToJava/LeapYearCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntroductionToJava/LinearEquationResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntroductionToJava/LinearEquationResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntroductionToJava/ShowGreetings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntroductionToJava/ShowGreetings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/InterestCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopInJava/InterestCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoopInJava/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LoopInJava/IsPrime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/LoopInJava/InterestCalculator.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,17 +39,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="SystemDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntroductionToJava.SystemDate" />
+}</component>
+  <component name="RunManager" selected="Application.CurrencyConversion">
+    <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntroductionToJava.BMICalculator" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntroductionToJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntroductionToJava.CurrencyConversion" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntroductionToJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInJava.InterestCalculator" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoopInJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopInJava.IsPrime" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LoopInJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShowGreetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntroductionToJava.ShowGreetings" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
@@ -58,7 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SystemDate" />
+        <item itemvalue="Application.CurrencyConversion" />
+        <item itemvalue="Application.InterestCalculator" />
+        <item itemvalue="Application.IsPrime" />
+        <item itemvalue="Application.ShowGreetings" />
+        <item itemvalue="Application.BMICalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -71,7 +132,10 @@
       <option name="presentableId" value="Default" />
       <updated>1669971566935</updated>
       <workItem from="1669971568758" duration="102000" />
-      <workItem from="1669971771903" duration="1004000" />
+      <workItem from="1669971771903" duration="4701000" />
+      <workItem from="1670073593641" duration="5569000" />
+      <workItem from="1670162258626" duration="3179000" />
+      <workItem from="1670201770569" duration="1409000" />
     </task>
     <servers />
   </component>
