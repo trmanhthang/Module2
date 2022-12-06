@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebe0b9d-735c-449d-b98b-853036fdec05" name="Changes" comment="upload file">
-      <change afterPath="$PROJECT_DIR$/src/ArrJava/FindMinArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrJava/AddElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,20 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMinArr">
+  <component name="RunManager" selected="Application.AddElement">
+    <configuration name="AddElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrJava.AddElement" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConvertTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrJava.ConvertTemperature" />
       <module name="Module2" />
@@ -54,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindElementInArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrJava.FindElementInArr" />
+    <configuration name="DeleteElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrJava.DeleteElement" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
@@ -93,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrJava.SwapInJava" />
-      <module name="Module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddElement" />
+        <item itemvalue="Application.DeleteElement" />
         <item itemvalue="Application.FindMinArr" />
         <item itemvalue="Application.ConvertTemperature" />
         <item itemvalue="Application.FindMax" />
-        <item itemvalue="Application.FindElementInArr" />
-        <item itemvalue="Application.SwapInJava" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,8 @@
       <workItem from="1670162258626" duration="3179000" />
       <workItem from="1670201770569" duration="5491000" />
       <workItem from="1670231676639" duration="3073000" />
-      <workItem from="1670291315493" duration="8197000" />
+      <workItem from="1670291315493" duration="13595000" />
+      <workItem from="1670335219727" duration="3688000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1670203737578</created>
@@ -188,7 +189,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670298719403</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="upload file">
+      <created>1670314394533</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670314394533</updated>
+    </task>
+    <task id="LOCAL-00010" summary="upload file">
+      <created>1670335417780</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670335417780</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
