@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebe0b9d-735c-449d-b98b-853036fdec05" name="Changes" comment="upload file">
-      <change afterPath="$PROJECT_DIR$/src/ArrJava/SumDiagonalLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrJava/Rectangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrJava/Rectangle/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +41,20 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumDiagonalLine">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ConvertTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrJava.ConvertTemperature" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMax2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrJava.FindMax2" />
       <module name="Module2" />
@@ -54,25 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinArr2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrJava.FindMinArr2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrJava.Rectangle.Main" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MergeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrJava.MergeArray" />
-      <module name="Module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrJava.*" />
+          <option name="PATTERN" value="ArrJava.Rectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ConvertTemperature" />
         <item itemvalue="Application.SumDiagonalLine" />
         <item itemvalue="Application.SumArr" />
         <item itemvalue="Application.FindMax2" />
-        <item itemvalue="Application.FindMinArr2" />
-        <item itemvalue="Application.MergeArray" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,7 @@
       <workItem from="1670231676639" duration="3073000" />
       <workItem from="1670291315493" duration="13595000" />
       <workItem from="1670335219727" duration="8295000" />
-      <workItem from="1670378196120" duration="2917000" />
+      <workItem from="1670378196120" duration="6965000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1670203737578</created>
@@ -239,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670381658987</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="upload file">
+      <created>1670382089847</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670382089847</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
