@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebe0b9d-735c-449d-b98b-853036fdec05" name="Changes" comment="upload file">
-      <change afterPath="$PROJECT_DIR$/src/ArrJava/FindMax2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrJava/SumArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,22 +40,9 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMax2">
+  <component name="RunManager" selected="Application.SumArr">
     <configuration name="AddElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrJava.AddElement" />
-      <module name="Module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArrJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeleteElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrJava.DeleteElement" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
@@ -106,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrJava.SumArr" />
+      <module name="Module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumArr" />
         <item itemvalue="Application.FindMax2" />
         <item itemvalue="Application.FindMinArr2" />
         <item itemvalue="Application.MergeArray" />
         <item itemvalue="Application.AddElement" />
-        <item itemvalue="Application.DeleteElement" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,7 @@
       <workItem from="1670231676639" duration="3073000" />
       <workItem from="1670291315493" duration="13595000" />
       <workItem from="1670335219727" duration="8295000" />
-      <workItem from="1670378196120" duration="1122000" />
+      <workItem from="1670378196120" duration="2293000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1670203737578</created>
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670343230447</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="upload file">
+      <created>1670380293818</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670380293818</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
