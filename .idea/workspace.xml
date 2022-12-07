@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eebe0b9d-735c-449d-b98b-853036fdec05" name="Changes" comment="upload file">
-      <change afterPath="$PROJECT_DIR$/src/ArrJava/FindMinArr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrJava/FindMax2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMinArr2">
+  <component name="RunManager" selected="Application.FindMax2">
     <configuration name="AddElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrJava.AddElement" />
       <module name="Module2" />
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrJava.FindMinArr" />
+    <configuration name="FindMax2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrJava.FindMax2" />
       <module name="Module2" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMax2" />
         <item itemvalue="Application.FindMinArr2" />
         <item itemvalue="Application.MergeArray" />
         <item itemvalue="Application.AddElement" />
         <item itemvalue="Application.DeleteElement" />
-        <item itemvalue="Application.FindMinArr" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +131,8 @@
       <workItem from="1670201770569" duration="5491000" />
       <workItem from="1670231676639" duration="3073000" />
       <workItem from="1670291315493" duration="13595000" />
-      <workItem from="1670335219727" duration="7692000" />
+      <workItem from="1670335219727" duration="8295000" />
+      <workItem from="1670378196120" duration="1122000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1670203737578</created>
@@ -217,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670341566892</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="upload file">
+      <created>1670343230447</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670343230447</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
