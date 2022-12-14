@@ -115,15 +115,19 @@ public class StudentManager {
         switch (choice) {
             case 1:
                 for (int i = 0; i < students.length; i++) {
-                    if (students[i].getGender().equalsIgnoreCase("nam")) {
-                        System.out.println(students[i]);
+                    if (students[i] != null) {
+                        if (students[i].getGender().equalsIgnoreCase("nam")) {
+                            System.out.println(students[i]);
+                        }
                     }
                 }
                 break;
             case 2:
                 for (int i = 0; i < students.length; i++) {
-                    if (students[i].getGender().equalsIgnoreCase("nữ")) {
-                        System.out.println(students[i]);
+                    if (students[i] != null) {
+                        if (students[i].getGender().equalsIgnoreCase("nữ")) {
+                            System.out.println(students[i]);
+                        }
                     }
                 }
         }
