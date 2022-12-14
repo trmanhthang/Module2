@@ -81,7 +81,7 @@ public class StudentManager {
         String name = input.nextLine();
 
         for (int i = 0; i < students.length; i++) {
-            if (students[i].getName().equals(name)) {
+            if (students[i].getName().toLowerCase().equals(name.toLowerCase())) {
                 students[i] = null;
             }
 
@@ -98,7 +98,7 @@ public class StudentManager {
         Student student = null;
         for (int i = 0; i < students.length; i++) {
             if (students[i] != null) {
-                if (students[i].getName().equals(nameSearch)) {
+                if (students[i].getName().toLowerCase().equals(nameSearch.toLowerCase())) {
                     student = students[i];
                 }
             }
